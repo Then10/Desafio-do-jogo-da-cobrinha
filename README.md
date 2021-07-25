@@ -8,7 +8,7 @@ Aplicação desenvolvida por [Renata Lima Ribeiro de Sena](https://github.com/re
 ## 🖱️ Acesso
 
 
-A Interface Web pode ser acessada [aqui](https://renadeveloper.github.io/thesnakegame/).
+A Interface Web pode ser acessada [aqui](http://www.thenilson.com/thesnakegame/).
 
 
 ## 💻 Tecnologias Utilizadas
