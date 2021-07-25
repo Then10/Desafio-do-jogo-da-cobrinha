@@ -1,0 +1,47 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:aqua;
+    color: rgb(86, 110, 177);
+}
+
+header {
+    min-height: 60px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-bottom: 1px solid rgb(31, 68, 190);
+    background: rgb(8, 5, 158);
+    z-index: 2;
+}
+
+h1, p, a {
+    color: white;
+    font-family: Georgia serif 16px;
+}
+
+#titulo {
+    margin-right: 1000px;
+    margin-bottom: -65px;
+}
+
+#pontos{
+    margin-left: 1000px;
+}
+
+footer {
+    position:fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 70px;
+    width: 100%;
+    background: rgb(113, 96, 175);
+    margin-top: 20px;
+    text-align: center;
+}
